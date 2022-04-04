@@ -48,6 +48,8 @@ function setup() {
     text("               use z to save ur l33t graphix!", 100, 250);
     text("               use bkspc to clear screen!", 100, 275);
     text("               experiment to find more interaction!!!!!!", 100, 300);
+    textSize(12)
+    text("                            wow a hint !! try up, dwn, w, s,  !!! ʕ·͡ᴥ·ʔ !!!! ", 100, 325);
     textSize(15);
     textStyle(ITALIC);
     text("               by w1llw@ll ", 100, 500);
